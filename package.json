@@ -1,0 +1,29 @@
+{
+  "name": "graphql-js",
+  "version": "1.0.0",
+  "description": "Testing GraphQL JS functionalities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Yanick Andrade",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YanickJair/GraphQL-JS.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/YanickJair/GraphQL-JS/issues"
+  },
+  "homepage": "https://github.com/YanickJair/GraphQL-JS#readme"
+}
